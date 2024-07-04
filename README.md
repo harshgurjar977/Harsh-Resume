@@ -1,3 +1,3 @@
 # Harsh-Resume
 <br>
-its my resume
+Here you can see all the basic information abput me 
